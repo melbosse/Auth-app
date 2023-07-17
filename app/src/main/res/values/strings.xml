@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MelinaTP2</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="nom_d_utilisateur">Nom d\'utilisateur</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="connexion">Connexion</string>
+    <string name="ins">S\'inscrire</string>
+    <string name="cn">Connexion</string>
+    <string name="mot_de_passe_actuel">Mot de passe actuel</string>
+    <string name="nouveau_mot_de_passe">Nouveau mot de passe</string>
+    <string name="confirmer">Confirmer</string>
+    <string name="changer_le_mot_de_passe">Changer le mot de passe</string>
+    <string name="veuillez_inscrire_votre_mot_de_passe_actuel">Veuillez inscrire votre mot de passe actuel :</string>
+    <string name="veuillez_inscrire_le_nouveau_mot_de_passe">Veuillez inscrire le nouveau mot de passe :</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="nouvel_utilisateur">Nouvel utilisateur?</string>
+    <string name="veuillez_indiquer_votre_nom_d_utilisateur">Veuillez indiquer votre nom d\'utilisateur :</string>
+</resources>
